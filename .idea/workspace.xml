@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="03e2d7ca-2bb4-4179-bd11-080626a36d58" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/com/webserver/core/ClientHandler.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/webserver/core/ClientHandler.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/com/webserver/core/ClientHandler.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/com/webserver/core/ClientHandler.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/webapps/myweb/login.html" beforeDir="false" afterPath="$PROJECT_DIR$/webapps/myweb/login.html" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -95,8 +92,16 @@
       <workItem from="1586752357215" duration="2379000" />
       <workItem from="1586918535175" duration="1695000" />
       <workItem from="1586920279763" duration="4220000" />
-      <workItem from="1586946181632" duration="513000" />
+      <workItem from="1586946181632" duration="1117000" />
     </task>
+    <task id="LOCAL-00001" summary="尝试Git方法对url的影响，确定使用哪个更为合适">
+      <created>1586946999528</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1586946999528</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -112,5 +117,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="尝试Git方法对url的影响，确定使用哪个更为合适" />
+    <option name="LAST_COMMIT_MESSAGE" value="尝试Git方法对url的影响，确定使用哪个更为合适" />
   </component>
 </project>
