@@ -62,12 +62,10 @@ public class ClientHandler implements Runnable{
             System.out.println("根据url"+url+"得到对应的业务servlet");
             /**
              * 根据请求判断是否为业务
-             *
-             *
              * 是不是以下更合适
              *  String RequestURL=request.getRequestURI();
+             * 当方法为get时 request.getUrl();会存在？ 不能通过下面方法得到对应servlet
              *  String servletName = ServerContext.getServletName(RequestURL);
-             *
              */
             String servletName = ServerContext.getServletName(url);
 
